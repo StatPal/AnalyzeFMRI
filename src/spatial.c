@@ -1,6 +1,7 @@
 
 #include <math.h>
 #include <R.h>
+#include "verR.h"
 
 
 /* functions for calculating spatial clusters and their properties by thresholding a statistic map/image. A neighbouthood matrix nmat is used to determine connectivity. */
